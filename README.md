@@ -12,7 +12,7 @@ The purpose of the analysis is to provide information about temperature trends i
 Insert picture 
 
 ## December 
-Insert picture 
+!["December Temps"](https://github.com/jaousley/surfs_up/blob/main/December%20Temps.png)
 
 # Summary
 
