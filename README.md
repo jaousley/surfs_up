@@ -5,7 +5,9 @@ The purpose of the analysis is to provide information about temperature trends i
 # Results 
 
 •	The lowest temperature in June was 64 degrees and the lowest temperature in December was 56 degrees. A difference of 8 degrees. 
+
 •	June had a mean temperature of 74.94 degrees and December had a mean temperature of 71.04 degrees
+
 •	The max temperature for June was 85 degrees and the max temperature of December was 83 degrees
 
 ## June 
