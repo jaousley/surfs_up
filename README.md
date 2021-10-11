@@ -9,7 +9,7 @@ The purpose of the analysis is to provide information about temperature trends i
 •	The max temperature for June was 85 degrees and the max temperature of December was 83 degrees
 
 ## June 
-Insert picture 
+![June_Temps](https://github.com/jaousley/surfs_up/blob/main/June_Temps.png)
 
 ## December 
 !["December_Temps"](https://github.com/jaousley/surfs_up/blob/main/December_Temps.png)
